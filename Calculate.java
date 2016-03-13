@@ -49,3 +49,5 @@ class Calculate
 	}
 	
 }
+
+//This works...please see if you can use a single println to print output, reagardless of operator
